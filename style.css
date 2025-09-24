@@ -16,4 +16,10 @@ body{
 	font-weight: bold;
 	border: 2px solid green;
 	border-radius: 10px;
+	margin: 10px;
+	width: 300px;
 }
+button[type="submit"]{
+	padding: 10px 20px;
+	font-weight: bold;
+}	
