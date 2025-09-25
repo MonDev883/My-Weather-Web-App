@@ -28,6 +28,7 @@ button[type="submit"]{
 	border: none;
 	border-radius: 5px;
 	cursor: pointer;
+	border: 2px solid green;
 }
 button[type="submit"]:hover{
 	background-color: darkorange;
@@ -35,4 +36,8 @@ button[type="submit"]:hover{
 }
 .card{
 	background: linear-gradient(180deg, blue, orange);
+	padding: 50px;
+	box-shadow: 2px 2px 5px darkblue;
+	min-width: 300px;
+	display: flex;
 }
