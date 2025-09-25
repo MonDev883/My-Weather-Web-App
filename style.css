@@ -62,5 +62,11 @@ p{
 	margin-bottom: 25px;
 }
 .descDisplay{
-	
+	font-style: italic;
+	font-weight: bold;
+	font-size: 2rem;
+}
+.weatherEmoji{
+	margin: 0;
+	font-size: 7.5rem;
 }
