@@ -3,4 +3,14 @@ const cityInput = document.querySelector(".cityInput");
 const card = document.querySelector(".card");
 const apiKey = "";
 
-weatherFom.addEventListener();
+weatherForm.addEventListener("submit", event => {
+
+});
+
+asyc function getWeatherData(city){
+
+}
+
+function displayWeatherInfo(data){
+
+}
